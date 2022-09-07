@@ -32,7 +32,7 @@
   <description>A bunch of utility functions to create REST based micro services</description>
 
   <properties>
-    <org.eclipse.jetty.version>9.1.5.v20140505</org.eclipse.jetty.version>
+    <org.eclipse.jetty.version>9.4.41.v20210516</org.eclipse.jetty.version>
   </properties>
 
   <dependencies>
