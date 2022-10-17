@@ -121,7 +121,7 @@
         <felix-scr-plugin.version>1.21.0</felix-scr-plugin.version>
         <guava.version>19.0</guava.version>
         <httpclient.version>4.3.3</httpclient.version>
-        <jackson2.version>2.13.4</jackson2.version>
+        <jackson2.version>2.13.4.2</jackson2.version>
         <jar.plugin.version>2.6</jar.plugin.version>
         <javax.cdi-api.version>1.2</javax.cdi-api.version>
         <javax.el-version>2.2.5</javax.el-version>
@@ -137,7 +137,7 @@
         <jgit.version>4.10.0.201712302008-r</jgit.version>
         <json.version>20160212</json.version>
         <junit.version>4.12</junit.version>
-        <kubernetes-client.version>3.1.12</kubernetes-client.version>
+        <kubernetes-client.version>6.0.0</kubernetes-client.version>
         <log4j.version>1.2.17</log4j.version>
         <lombok.version>1.16.18</lombok.version>
         <maven.enforcer.version>3.2.3</maven.enforcer.version>
