@@ -28,7 +28,7 @@
   <name>Fabric8 :: Git Repo :: RestEasy</name>
 
   <properties>
-    <resteasy.version>3.0.17.Final</resteasy.version>
+    <resteasy.version>3.0.20.Final</resteasy.version>
   </properties>
 
   <dependencies>
